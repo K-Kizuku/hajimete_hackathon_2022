@@ -13,5 +13,5 @@ RUN go install
 
 #RUN go build -o /go/bin/air github.com/cosmtrek/air
 
-CMD air
+#CMD air
 
